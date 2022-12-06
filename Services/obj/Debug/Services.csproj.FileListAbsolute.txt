@@ -1,0 +1,11 @@
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\Services\bin\Debug\Services.dll
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\Services\bin\Debug\Services.pdb
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\Services\bin\Debug\ServicesContracts.dll
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\Services\bin\Debug\ServicesContracts.pdb
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\Services\obj\Debug\Services.csproj.CopyComplete
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\Services\obj\Debug\Services.dll
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\Services\obj\Debug\Services.pdb
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\Services\bin\Debug\DataContracts.dll
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\Services\bin\Debug\DataContracts.pdb
