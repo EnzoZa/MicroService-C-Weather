@@ -1,0 +1,16 @@
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\IHM\bin\Debug\IHM.exe.config
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\IHM\bin\Debug\IHM.exe
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\IHM\bin\Debug\IHM.pdb
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\IHM\bin\Debug\DataContracts.dll
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\IHM\bin\Debug\ServicesContracts.dll
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\IHM\bin\Debug\DataContracts.pdb
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\IHM\bin\Debug\ServicesContracts.pdb
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\IHM\obj\Debug\IHM.csproj.AssemblyReference.cache
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\IHM\obj\Debug\IHM.csproj.SuggestedBindingRedirects.cache
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\IHM\obj\Debug\IHM.Properties.Resources.resources
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\IHM\obj\Debug\IHM.csproj.GenerateResource.cache
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\IHM\obj\Debug\IHM.csproj.CoreCompileInputs.cache
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\IHM\obj\Debug\IHM.csproj.CopyComplete
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\IHM\obj\Debug\IHM.exe
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\IHM\obj\Debug\IHM.pdb
+D:\Bureau\COURS\Cours_M2\MicroService\Projet_cours_1\MeteoService\IHM\obj\Debug\IHM.Form1.resources
